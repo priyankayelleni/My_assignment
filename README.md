@@ -17,7 +17,7 @@
  
  Go to TestRunner Class in Intelllij IDE and do right click and select RUN option
  
- How to Gte Reports?
+ How to Get Reports?
  ====================
  After running tests, reports will be available under target folder with file cucumber-report
 
